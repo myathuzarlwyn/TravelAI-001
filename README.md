@@ -254,7 +254,3 @@ cd server && node db/migrate.js
 Files are applied in alphabetical order; already-applied files are skipped.
 
 ---
-
-## Co-authors
-
-Built with [Oz](https://warp.dev) — AI agent by Warp.
